@@ -1,46 +1,39 @@
-<h1 align="center">Welcome to My Universe 🌌</h1>
-<h3 align="center">I'm Slow Web Developer 🚀 | Backend Specialist 💪</h3>
+<h1 align="center">🌐 Welcome to My Digital Space 💜</h1>
+<h3 align="center">I'm Slow Web Developer 🚀 | Full Stack Web Developer 💪</h3>
 
 ---
 
 <div align="center">
-  <a href="https://discord.com/users/1slow" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=1SLOW&color=9a00ff&logoColor=ffffff&labelColor=291946&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9A00FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Backend+%26+Frontend+Enthusiast;Crafting+Digital+Experiences" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🚀 About Me
-- 🧠 Backend Developer | Web Engineer
-- 💜 Passionate about **Node.js | TypeScript | MySQL**
-- 🔥 Building projects that make life easier
-- 🎯 Always learning, always improving
+### 💪 About Me
+- 🔥 Full Stack Web Developer
+- 💜 Specialized in **JavaScript | TypeScript | Node.js | React | MySQL**
+- 🎯 Passionate about turning ideas into digital solutions
+- 🚀 Always upgrading my tech arsenal
 
 ---
 
-### 🔥 Tech Stack
+### 💻 Tech Stack
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,mysql,python,nextjs" alt="Tech Stack" />
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SlowWebDev&theme=purple&hide_border=false" height="170" alt="streak stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=SlowWebDev&show_icons=true&theme=purple&hide_border=false" height="170" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SlowWebDev&layout=compact&langs_count=6&theme=purple&hide_border=false" height="170" alt="languages graph"/>
 </div>
 
 ---
 
-### 🧠 My Projects
+### 🔥 My Projects
 | Project       | Tech Stack       | Status   |
 |--------------|----------------|---------|
 | Discord Bot  | Node.js + MySQL | 🔥 Active |
@@ -49,10 +42,13 @@
 
 ---
 
-### Connect with Me 💜
+### 📡 Connect with Me
 <div align="center">
-  <a href="https://discord.com/users/1slow">
+  <a href="https://discord.com/users/1slow" target="_blank">
     <img src="https://img.shields.io/badge/Discord-1SLOW-9a00ff?style=for-the-badge&logo=discord&logoColor=ffffff"/>
+  </a>
+  <a href="https://github.com/SlowWebDev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SlowWebDev-9a00ff?style=for-the-badge&logo=github&logoColor=ffffff"/>
   </a>
 </div>
 
@@ -66,3 +62,4 @@
 ---
 
 💜 Made with 💪 by **Slow Web Developer**
+
