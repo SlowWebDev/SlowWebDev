@@ -1,12 +1,9 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=6B4BFF&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=140&lines=Senior+Full+Stack+Developer+%7C+Code+Architect;Transforming+Ideas+into+Digital+Reality;Mastering+the+Art+of+Web+Development" alt="Typing SVG" />
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=6B4BFF&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=140&lines=Full+Stack+Web+Developer;Backend+Specialist;Crafting+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation"/>
-</div>
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30">
@@ -42,21 +39,21 @@ interface Developer {
 
 const profile: Developer = {
   name: "Slow Web Developer",
-  title: "Senior Full Stack Engineer",
+  title: "Full Stack Web Developer",
   skills: [
-    "Advanced TypeScript Development",
-    "React.js Architecture",
-    "Node.js Microservices",
-    "Database Engineering",
-    "System Design"
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "React.js",
+    "Database Engineering"
   ],
   focus: [
-    "Building Scalable Solutions",
-    "Performance Optimization",
-    "Clean Architecture",
-    "Security Best Practices"
+    "Building Scalable APIs",
+    "Backend Development",
+    "Clean Code",
+    "Performance Optimization"
   ],
-  currentProject: "Crafting the next generation of web applications"
+  currentProject: "Building Modern Web Applications"
 };
 ```
 
