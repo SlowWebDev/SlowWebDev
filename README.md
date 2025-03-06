@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=6B4BFF&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=140&lines=Senior+Full+Stack+Developer+%7C+Code+Architect;Transforming+Ideas+into+Digital+Reality;Mastering+the+Art+of+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=6B4BFF&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=140&lines=Full+Stack+Web+Developer+%7C+Backend+Enthusiast;Turning+Ideas+into+Functional+Solutions;Exploring+the+World+of+Web+Development" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -11,9 +11,10 @@
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30">
   Tech Mastery
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30">
 </h2>
 
-<div align="center" style="margin: 30px 0">
+<div align="center" style="margin: 30px 0; animation: float 3s ease-in-out infinite;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript"/>
@@ -31,7 +32,7 @@
   Development Philosophy
 </h2>
 
-```typescript
+typescript
 interface Developer {
   name: string;
   title: string;
@@ -42,32 +43,22 @@ interface Developer {
 
 const profile: Developer = {
   name: "Slow Web Developer",
-  title: "Senior Full Stack Engineer",
+  title: "Full Stack Web Developer",
   skills: [
-    "Advanced TypeScript Development",
-    "React.js Architecture",
-    "Node.js Microservices",
-    "Database Engineering",
-    "System Design"
+    "Node.js",
+    "JavaScript & TypeScript",
+    "React.js",
+    "Database Management",
+    "API Development"
   ],
   focus: [
-    "Building Scalable Solutions",
+    "Building Functional Solutions",
+    "Backend Development",
     "Performance Optimization",
-    "Clean Architecture",
-    "Security Best Practices"
+    "Learning New Technologies"
   ],
-  currentProject: "Crafting the next generation of web applications"
+  currentProject: "Developing Modern Web Applications"
 };
-```
-
-<h2 align="center">
-  Project Analytics
-</h2>
-
-<div align="center">
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=SlowWebDev&show_icons=true&count_private=true&hide_border=true&title_color=6B4BFF&icon_color=6B4BFF&text_color=c9d1d9&bg_color=0d1117&ring_color=6B4BFF" alt="GitHub Stats"/> 
-  <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=SlowWebDev&hide_border=true&stroke=6B4BFF&ring=6B4BFF&fire=6B4BFF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6B4BFF&sideLabels=6B4BFF&dates=c9d1d9&background=0d1117" alt="Contribution Stats"/>
-</div>
 
 <h2 align="center">
   Let's Connect
@@ -89,3 +80,11 @@ const profile: Developer = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=footer" width="100%" alt="Footer"/>
 </div>
+
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+</style>
