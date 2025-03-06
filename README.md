@@ -84,9 +84,29 @@ const profile: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=footer" width="100%" alt="Footer"/>
+  <canvas id="gameCanvas" width="600" height="400" style="border: 1px solid #6B4BFF; border-radius: 10px; margin-top: 20px;"></canvas>
+  <script>
+    const canvas = document.getElementById("gameCanvas");
+    const ctx = canvas.getContext("2d");
+    let x = 100, y = 100, dx = 2, dy = 2, radius = 10;
+
+    function drawBall() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.beginPath();
+      ctx.arc(x, y, radius, 0, Math.PI * 2);
+      ctx.fillStyle = "#6B4BFF";
+      ctx.fill();
+      ctx.closePath();
+
+      if (x + dx > canvas.width - radius || x + dx < radius) dx = -dx;
+      if (y + dy > canvas.height - radius || y + dy < radius) dy = -dy;
+      x += dx;
+      y += dy;
+    }
+    setInterval(drawBall, 20);
+  </script>
 </div>
 
 <div align="center">
-  <iframe src="https://slowwebdev-games.vercel.app/blaster/" width="600" height="400" style="border: none; border-radius: 10px; margin-top: 20px;" title="Blaster Game"></iframe>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=footer" width="100%" alt="Footer"/>
 </div>
