@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=6B4BFF&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=140&lines=Senior+Full+Stack+Developer+%7C+Code+Architect;Transforming+Ideas+into+Digital+Reality;Mastering+the+Art+of+Web+Development" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY5ZjM5ZjM5ZjM5ZjM5ZjM5ZjM5ZjM5ZjM5ZjM5ZjM5ZjM5ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation"/>
 </div>
 
