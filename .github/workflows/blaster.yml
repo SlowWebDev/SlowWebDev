@@ -17,7 +17,9 @@ jobs:
 
       - name: Generate Blaster Game
         run: |
-          echo "<canvas id='blasterCanvas' width='600' height='400' style='border: 1px solid #6B4BFF; border-radius: 10px; margin-top: 20px;'></canvas>" > blaster.html
+          echo "<div align='center'>" > blaster.html
+          echo "<canvas id='blasterCanvas' width='600' height='400' style='border: 1px solid #6B4BFF; border-radius: 10px; margin-top: 20px;'></canvas>" >> blaster.html
+          echo "</div>" >> blaster.html
           echo "<script>" >> blaster.html
           echo "const canvas = document.getElementById('blasterCanvas');" >> blaster.html
           echo "const ctx = canvas.getContext('2d');" >> blaster.html
@@ -30,3 +32,14 @@ jobs:
         with:
           name: blaster-game
           path: blaster.html
+
+      - name: Deploy Blaster Game
+        run: |
+          mkdir -p public
+          mv blaster.html public/
+
+      - name: Upload Blaster Game
+        uses: actions/upload-artifact@v4
+        with:
+          name: blaster-public
+          path: public/
