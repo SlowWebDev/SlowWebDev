@@ -111,10 +111,6 @@ const slowWebDev: Developer = {
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=SlowWebDev&custom_title=Contribution%20Graph&theme=high-contrast&bg_color=0d1117&color=9745f5&line=9745f5&point=c9d1d9&area=true&area_color=9745f5&hide_border=true" alt="Activity Graph"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SlowWebDev&theme=radical&no-frame=true&no-bg=true&column=7&title_color=9745f5" alt="Trophy Stats"/>
-</div>
-
 ---
 
 ### 🌐 Connect With Me
