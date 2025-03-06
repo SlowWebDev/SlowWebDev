@@ -18,11 +18,6 @@
 
 ---
 
-### 🔥 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,mysql,html,css,python,figma,github&perline=6" alt="Tech Stack" />
-</div>
-
 ---
 
 ### 📊 GitHub Stats
@@ -38,14 +33,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SlowWebDev&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </div>
-
-| Project       | Tech Stack       | Status   |
-|--------------|----------------|---------|
-| Discord Bot  | Node.js + MySQL | 🔥 Active |
-| Minecraft Server | Node.js + TypeScript | 🎯 Coming Soon |
-| Portfolio    | Next.js + MySQL | 💪 Work in Progress |
-
----
 
 ### 🔗 Connect with Me
 <div align="center">
