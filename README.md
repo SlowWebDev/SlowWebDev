@@ -80,5 +80,5 @@ const profile: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6B4BFF&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Building+the+Future%2C+One+Line+at+a+Time+⚡" alt="Outro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6B4BFF&center=true&vCenter=true&repeat=false&width=500&height=30&lines=bBuilding+the+Future%2C+One+Line+at+a+Time+⚡" alt="Outro"/>
 </div>
