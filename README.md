@@ -1,39 +1,44 @@
-<h1 align="center">🌐 Welcome to My Digital Space 💜</h1>
+<h1 align="center">🔥 Welcome to the Digital Realm 💜</h1>
 <h3 align="center">I'm Slow Web Developer 🚀 | Full Stack Web Developer 💪</h3>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9A00FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Backend+%26+Frontend+Enthusiast;Crafting+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9A00FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Creative+Backend+Engineer;Building+Awesome+Web+Apps;Tech+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ---
 
-### 💪 About Me
+### 👤 About Me
 - 🔥 Full Stack Web Developer
 - 💜 Specialized in **JavaScript | TypeScript | Node.js | React | MySQL**
-- 🎯 Passionate about turning ideas into digital solutions
-- 🚀 Always upgrading my tech arsenal
+- 🎯 Passionate about turning ideas into powerful applications
+- ⚡ Always pushing the limits with new technologies
+- 🌐 Freelancer | Open Source Contributor
 
 ---
 
-### 💻 Tech Stack
+### 🔥 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,mysql,python,nextjs" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,mysql,html,css,python,figma,github&perline=6" alt="Tech Stack" />
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SlowWebDev&theme=purple&hide_border=false" height="170" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SlowWebDev&show_icons=true&theme=purple&hide_border=false" height="170" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SlowWebDev&layout=compact&langs_count=6&theme=purple&hide_border=false" height="170" alt="languages graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SlowWebDev&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SlowWebDev&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SlowWebDev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="Languages Stats"/>
 </div>
 
 ---
 
-### 🔥 My Projects
+### 🔥 Featured Projects
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SlowWebDev&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
+
 | Project       | Tech Stack       | Status   |
 |--------------|----------------|---------|
 | Discord Bot  | Node.js + MySQL | 🔥 Active |
@@ -42,7 +47,7 @@
 
 ---
 
-### 📡 Connect with Me
+### 🔗 Connect with Me
 <div align="center">
   <a href="https://discord.com/users/1slow" target="_blank">
     <img src="https://img.shields.io/badge/Discord-1SLOW-9a00ff?style=for-the-badge&logo=discord&logoColor=ffffff"/>
@@ -61,5 +66,5 @@
 
 ---
 
-💜 Made with 💪 by **Slow Web Developer**
+### 💜 Made with passion by **Slow Web Developer**
 
