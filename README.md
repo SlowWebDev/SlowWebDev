@@ -127,7 +127,7 @@ const slowWebDev: Developer = {
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Let's+Create+Something+Amazing+Together!" alt="Outro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&repeat=false&width=500&height=60&lines= Let's+Create+Something+Amazing+Together!" alt="Outro" />
 </div>
 
 <div align="center">
