@@ -43,14 +43,6 @@
     <img src="https://img.shields.io/badge/GitHub-SlowWebDev-9a00ff?style=for-the-badge&logo=github&logoColor=ffffff"/>
   </a>
 </div>
-
----
-
-### 🐍 Snake Animation
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SlowWebDev/SlowWebDev/snake.svg" alt="Snake animation"/>
-</div>
-
 ---
 
 ### 💜 Made with passion by **Slow Web Developer**
