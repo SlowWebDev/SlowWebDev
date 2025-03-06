@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Blaster Game
         run: |
@@ -26,7 +26,7 @@ jobs:
           echo "</script>" >> blaster.html
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: blaster-game
           path: blaster.html
