@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24&height=300&section=header&text=Digital%20Architect&fontSize=70&fontAlignY=38&desc=Crafting%20Tomorrow's%20Web%20Today&descSize=30&descAlignY=60&animation=fadeIn" width="100%" alt="Header"/>
-</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=6B4BFF&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=140&lines=Senior+Full+Stack+Developer+%7C+Code+Architect;Transforming+Ideas+into+Digital+Reality;Mastering+the+Art+of+Web+Development" alt="Typing SVG" />
