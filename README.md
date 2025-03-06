@@ -1,6 +1,6 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=6B4BFF&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=140&lines=Full+Stack+Web+Developer;Backend+Specialist;Crafting+Digital+Experiences" alt="Typing SVG" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation" style="border-radius: 10px;"/>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=6B4BFF&center=false&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Full+Stack+Web+Developer;Backend+Specialist;Crafting+Digital+Experiences" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Animation" style="border-radius: 10px; max-width: 100%; height: auto;"/>
 </div>
 
 <br/>
