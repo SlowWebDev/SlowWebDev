@@ -36,7 +36,7 @@
 
 ### 🔗 Connect with Me
 <div align="center">
-  <a href="https://discord.com/users/1slow" target="_blank">
+  <a href="https://discord.com/channels/@me/1334302822891520091" target="_blank">
     <img src="https://img.shields.io/badge/Discord-1SLOW-9a00ff?style=for-the-badge&logo=discord&logoColor=ffffff"/>
   </a>
   <a href="https://github.com/SlowWebDev" target="_blank">
