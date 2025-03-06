@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=6B4BFF&center=false&vCenter=true&multiline=true&repeat=false&width=800&height=140&lines=Full+Stack+Web+Developer;Backend+Specialist;Crafting+Digital+Experiences" alt="Typing SVG" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation" style="border-radius: 10px;"/>
 </div>
 
 <br/>
@@ -38,14 +38,14 @@ interface Developer {
 }
 
 const profile: Developer = {
-  name: "Slow Web Developer",
+  name: "Slow ",
   title: "Full Stack Web Developer",
   skills: [
     "JavaScript",
     "TypeScript",
     "Node.js",
     "React.js",
-    "Database Engineering"
+    "Database "
   ],
   focus: [
     "Building Scalable APIs",
@@ -85,4 +85,8 @@ const profile: Developer = {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=footer" width="100%" alt="Footer"/>
+</div>
+
+<div align="center">
+  <iframe src="https://slowwebdev-games.vercel.app/blaster/" width="600" height="400" style="border: none; border-radius: 10px; margin-top: 20px;" title="Blaster Game"></iframe>
 </div>
