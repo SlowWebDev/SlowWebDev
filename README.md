@@ -77,39 +77,12 @@ const profile: Developer = {
   <a href="https://github.com/SlowWebDev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-SlowWebDev-6B4BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
   </a>
+  <br/>
+  <a href="https://github.com/SlowWebDev/.github/tree/main/workflows/blaster" target="_blank">
+    <img src="https://img.shields.io/badge/Game%20Blaster-Click%20Here-6B4BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+  </a>
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6B4BFF&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Building+the+Future%2C+One+Line+at+a+Time+⚡" alt="Outro"/>
-</div>
-
-<div align="center">
-  <canvas id="gameCanvas" width="600" height="400" style="border: 1px solid #6B4BFF; border-radius: 10px; margin-top: 20px;"></canvas>
-  <script>
-    const canvas = document.getElementById("gameCanvas");
-    const ctx = canvas.getContext("2d");
-    let snake = [{ x: 10, y: 10 }], 
-        direction = { x: 10, y: 0 }, 
-        food = { x: Math.floor(Math.random() * 60) * 10, y: Math.floor(Math.random() * 40) * 10 };
-
-    function draw() {
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
-      ctx.fillStyle = "#6B4BFF";
-      snake.forEach(({ x, y }) => ctx.fillRect(x, y, 10, 10));
-      ctx.fillStyle = "#FF0000";
-      ctx.fillRect(food.x, food.y, 10, 10);
-      let head = { x: snake[0].x + direction.x, y: snake[0].y + direction.y };
-      snake.unshift(head);
-      if (head.x === food.x && head.y === food.y) {
-        food = { x: Math.floor(Math.random() * 60) * 10, y: Math.floor(Math.random() * 40) * 10 };
-      } else {
-        snake.pop();
-      }
-    }
-    setInterval(draw, 100);
-  </script>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=footer" width="100%" alt="Footer"/>
 </div>
