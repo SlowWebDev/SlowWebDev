@@ -77,10 +77,6 @@ const profile: Developer = {
   <a href="https://github.com/SlowWebDev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-SlowWebDev-6B4BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
   </a>
-  <br/>
-  <a href="https://github.com/SlowWebDev/.github/tree/main/workflows/blaster" target="_blank">
-    <img src="https://img.shields.io/badge/Game%20Blaster-Click%20Here-6B4BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-  </a>
 </div>
 
 <div align="center">
