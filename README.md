@@ -80,7 +80,7 @@ const profile: Developer = {
     <img src="https://img.shields.io/badge/GitHub-SlowWebDev-6B4BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Badge"/>
   </a>
   &nbsp;
-  <a href="https://discord.com/users/1334302822891520091" target="_blank">
+  <a href="https://discord.com/users/901116476105314374" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%231SLOW-6B4BFF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord Badge"/>
   </a>
 </div>
