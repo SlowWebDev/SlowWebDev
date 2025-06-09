@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 💻 I build robust backend services and interactive web apps  
-- 🛠️ Main Stack: `Node.js`, `React.js`, `Express`, `MySQL`  
+- 🛠️ **Main Stack**: `Node.js`, `React.js`, `Express`, `MySQL`  
 - 📌 Currently diving deeper into: `TypeScript` & `System Architecture`  
 - 🤝 I love collaborating and sharing ideas on GitHub
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🧩 My Philosophy
+## 🧹 My Philosophy
 
 ```ts
 interface Developer {
@@ -59,8 +59,34 @@ const profile: Developer = {
   ],
   currentProject: "Modern Full Stack Web Apps"
 };
+```
 
-📊 GitHub Stats
-<div align="center"> <img width="47%" src="https://github-readme-stats.vercel.app/api?username=SlowWebDev&show_icons=true&count_private=true&hide_border=true&title_color=6B4BFF&icon_color=6B4BFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> &nbsp; <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=SlowWebDev&hide_border=true&stroke=6B4BFF&ring=6B4BFF&fire=6B4BFF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6B4BFF&sideLabels=6B4BFF&dates=c9d1d9&background=0d1117" alt="GitHub Streak" /> </div>
-🌐 Let's Connect
-<div align="center"> <a href="https://github.com/SlowWebDev" target="_blank"> <img src="https://img.shields.io/badge/GitHub-SlowWebDev-6B4BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Badge"/> </a> &nbsp; <a href="https://discord.com/channels/@me/1334302822891520091" target="_blank"> <img src="https://img.shields.io/badge/Discord-%231SLOW-6B4BFF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord Badge"/> </a> </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6B4BFF&center=true&vCenter=true&repeat=false&width=500&height=30&lines=--Building+the+Future%2C+One+Line+at+a+Time+⚡" alt="Footer Typing Animation"/> </div> ```
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=SlowWebDev&show_icons=true&count_private=true&hide_border=true&title_color=6B4BFF&icon_color=6B4BFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  &nbsp;
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=SlowWebDev&hide_border=true&stroke=6B4BFF&ring=6B4BFF&fire=6B4BFF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6B4BFF&sideLabels=6B4BFF&dates=c9d1d9&background=0d1117" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://github.com/SlowWebDev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SlowWebDev-6B4BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/1334302822891520091" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%231SLOW-6B4BFF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord Badge"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6B4BFF&center=true&vCenter=true&repeat=false&width=500&height=30&lines=--Building+the+Future%2C+One+Line+at+a+Time+⚡" alt="Footer Typing Animation"/>
+</div>
