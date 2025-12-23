@@ -42,7 +42,7 @@
 {
   "developer": "Yousef Mohamed",
   "passion": "Coding since age 14",
-  "architecture": "Monolithic & Microservices",
+  "architecture": "Monolithic",
   "stacks": {
     "php_ecosystem": {
       "framework": "Laravel",
