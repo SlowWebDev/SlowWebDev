@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,nodejs,express,mongodb,ts,js,html,css,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,react,nodejs,express,ts,js,html,css,git&theme=dark" />
   </a>
 </div>
 
@@ -52,7 +52,7 @@
     "js_ecosystem": {
       "runtime": "Node.js",
       "frameworks": ["Express", "React"],
-      "database": "MongoDB",
+      "database": "Mysql",
       "focus": "Real-time Applications"
     }
   }
